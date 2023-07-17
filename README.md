@@ -1,5 +1,7 @@
 # dfa_check
-#THE FILE MUST BE NAMED fisier.txt (you can change that in the program)
+
+THE FILE MUST BE NAMED fisier.txt (you can change that in the program)
+
 A python script that checks if a dfa configuration is valid
 
 This script takes as an input a file and checks if it;s a valid dfa configuration . Below is an example of a file:
