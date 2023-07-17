@@ -101,5 +101,4 @@ def validate(directory):
 
 directory = Path(__file__).with_name("fisier.txt")
 directory = directory.absolute()
-print(directory)
 print(validate(directory))
